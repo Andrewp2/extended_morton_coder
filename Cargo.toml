@@ -5,14 +5,7 @@ edition = "2021"
 authors = ["Andrew Peterson"]
 description = "Compute extended morton codes"
 repository = "https://github.com/Andrewp2/extended_morton_coder"
-keywords = [
-    "gamedev",
-    "bvh",
-    "raytracing",
-    "morton",
-    "morton_code",
-    "morton code",
-]
+keywords = ["gamedev", "bvh", "raytracing", "morton", "morton_code"]
 license = "MIT OR Apache-2.0"
 readme = "README.md"
 
